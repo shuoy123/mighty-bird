@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/user/upskill
+C:/Users/user/Desktop/bird
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-65395
-Successfully changed project path to: C:/Users/user/upskill
-C:/Users/user/upskill
+56153
+Successfully changed project path to: C:/Users/user/Desktop/bird
+C:/Users/user/Desktop/bird
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,11 +47,11 @@ C:/Users/user/upskill
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 142.81 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 130.94 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.6f1 (7da38d85baf6)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/user/upskill/Assets
+[Subsystems] Discovering subsystems at path C:/Users/user/Desktop/bird/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -63,95 +63,95 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56092
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56908
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.016640 seconds.
+Registered in 0.014865 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 118.06 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 126.75 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.912 seconds
+- Completed reload, in  0.925 seconds
 Domain Reload Profiling:
-	ReloadAssembly (912ms)
+	ReloadAssembly (925ms)
 		BeginReloadAssembly (114ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (2ms)
-		EndReloadAssembly (640ms)
-			LoadAssemblies (109ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (660ms)
+			LoadAssemblies (113ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (142ms)
+			SetupTypeCache (137ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (36ms)
-			SetupLoadedEditorAssemblies (395ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (421ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (70ms)
+				InitializePlatformSupportModulesInManaged (80ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (118ms)
-				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (126ms)
-				ProcessInitializeOnLoadMethodAttributes (79ms)
+				RefreshPlugins (127ms)
+				BeforeProcessingInitializeOnLoad (3ms)
+				ProcessInitializeOnLoadAttributes (142ms)
+				ProcessInitializeOnLoadMethodAttributes (69ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.016018 seconds.
+Registered in 0.013172 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\user\upskill\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\user\upskill\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 120.43 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 115.83 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.649 seconds
+- Completed reload, in  1.626 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1650ms)
-		BeginReloadAssembly (255ms)
+	ReloadAssembly (1627ms)
+		BeginReloadAssembly (271ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (8ms)
+			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (124ms)
-		EndReloadAssembly (1244ms)
-			LoadAssemblies (120ms)
+			CreateAndSetChildDomain (137ms)
+		EndReloadAssembly (1209ms)
+			LoadAssemblies (116ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (328ms)
+			SetupTypeCache (303ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (72ms)
-			SetupLoadedEditorAssemblies (653ms)
+			RebuildScriptCaches (81ms)
+			SetupLoadedEditorAssemblies (635ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (31ms)
+				InitializePlatformSupportModulesInManaged (20ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (121ms)
-				BeforeProcessingInitializeOnLoad (140ms)
-				ProcessInitializeOnLoadAttributes (300ms)
+				RefreshPlugins (116ms)
+				BeforeProcessingInitializeOnLoad (147ms)
+				ProcessInitializeOnLoadAttributes (289ms)
 				ProcessInitializeOnLoadMethodAttributes (48ms)
-				AfterProcessingInitializeOnLoad (13ms)
+				AfterProcessingInitializeOnLoad (15ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (20ms)
+			AwakeInstancesAfterBackupRestoration (21ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.72 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 0.71 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4074 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 44 unused Assets / (222.5 KB). Loaded Objects now: 4529.
-Memory consumption went from 153.5 MB to 153.3 MB.
-Total: 4.281000 ms (FindLiveObjects: 0.394400 ms CreateObjectMapping: 0.324700 ms MarkObjects: 3.380700 ms  DeleteObjects: 0.180100 ms)
+Unloading 4075 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 44 unused Assets / (222.9 KB). Loaded Objects now: 4531.
+Memory consumption went from 153.7 MB to 153.5 MB.
+Total: 3.987800 ms (FindLiveObjects: 0.342600 ms CreateObjectMapping: 0.293100 ms MarkObjects: 3.159100 ms  DeleteObjects: 0.192000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -165,625 +165,57 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 181795.629349 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-h08-64.png
-  artifactKey: Guid(ec0adbdd3704446ebac44f4fec0d4856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-h08-64.png using Guid(ec0adbdd3704446ebac44f4fec0d4856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75e331c712a1186f9cb991dae979339b') in 0.208515 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000075 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-v03-64.png
-  artifactKey: Guid(11274c1651cc54bdbb94b71f6bac9bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-v03-64.png using Guid(11274c1651cc54bdbb94b71f6bac9bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06307a10d80cb10ef2d3ce17bbb7bed1') in 0.033992 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000088 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-v08-64.png
-  artifactKey: Guid(2e836962fbbce4703966d5fdf3984a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-v08-64.png using Guid(2e836962fbbce4703966d5fdf3984a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b573a6d251246c97ecb89a6cb6424c2') in 0.022121 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000056 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-h01-32.png
-  artifactKey: Guid(93aef0c90c6cc4bbab4421badf861df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-h01-32.png using Guid(93aef0c90c6cc4bbab4421badf861df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6abee01d2bd5485f96746504d6c50430') in 0.029667 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-h01-64.png
-  artifactKey: Guid(4c81ae76675944ce78c0a48eca9399d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-h01-64.png using Guid(4c81ae76675944ce78c0a48eca9399d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '085506afdc4b96f10786c490f49740d2') in 0.020315 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-v04-32.png
-  artifactKey: Guid(8081a4a26568a44e1b6de046105e8188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-v04-32.png using Guid(8081a4a26568a44e1b6de046105e8188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34623cac80666f1e6d5855b74487d42c') in 0.019589 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-h03-64.png
-  artifactKey: Guid(b554ed0b05606463da2edcc57c151b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-h03-64.png using Guid(b554ed0b05606463da2edcc57c151b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4356a4560281f0b883c1389b47abd4b') in 0.022279 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-h05-32.png
-  artifactKey: Guid(bfbaefbec9ed04885b76ffaa15a933e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-h05-32.png using Guid(bfbaefbec9ed04885b76ffaa15a933e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c47ce4d3dfd9a33a9dba14051c37580') in 0.023076 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000058 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-h04-32.png
-  artifactKey: Guid(454c55a74b2c74e71ac0203f9067246e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-h04-32.png using Guid(454c55a74b2c74e71ac0203f9067246e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aca61c17b8237cf9884b00388b1f4d2') in 0.018343 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites
-  artifactKey: Guid(4cd3c06e52cd44709b7fb4d481297206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites using Guid(4cd3c06e52cd44709b7fb4d481297206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c95913e681587962136ee28f17246799') in 0.006405 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000100 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-v07-64.png
-  artifactKey: Guid(08f7400e79d374c4884fd7bf2b286616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-v07-64.png using Guid(08f7400e79d374c4884fd7bf2b286616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82152f18f5e0c389ce0f672623be0711') in 0.020577 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-h07-64.png
-  artifactKey: Guid(eb8dd1da5d5cb42369e3ea5ebab1538f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-h07-64.png using Guid(eb8dd1da5d5cb42369e3ea5ebab1538f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af3f388592c14f72a830fac72bccd6e4') in 0.023913 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-v05-64.png
-  artifactKey: Guid(5ad7b7e87ca414b2f82014e4f3cb0315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-v05-64.png using Guid(5ad7b7e87ca414b2f82014e4f3cb0315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38963921430e68a0b7e3a1dc31a0b4ca') in 0.019001 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-h05-64.png
-  artifactKey: Guid(bd26975da53984e428c961718e6a9c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-h05-64.png using Guid(bd26975da53984e428c961718e6a9c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4caa750f47c6b59c25387fe119ac5e') in 0.023083 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-v08-32.png
-  artifactKey: Guid(45048d317d2394ae0a86c7160a575d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-v08-32.png using Guid(45048d317d2394ae0a86c7160a575d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6140639a8328ae89e303cd22e5af6856') in 0.017756 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000072 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-v06-32.png
-  artifactKey: Guid(280bd645831694209b878e9d2a459980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-v06-32.png using Guid(280bd645831694209b878e9d2a459980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ae269a0c654793b9b00615e58a55a40') in 0.020704 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-h06-32.png
-  artifactKey: Guid(29020ed6bce8e40a8b90fb3b1c80e0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-h06-32.png using Guid(29020ed6bce8e40a8b90fb3b1c80e0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8881cfc79edc8903aae780a198b0015a') in 0.022733 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000098 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-v02-32.png
-  artifactKey: Guid(aa2bf4ff4e72f4a309712aacbef29cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-v02-32.png using Guid(aa2bf4ff4e72f4a309712aacbef29cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be8a3e347401e99c67eee9e16db4b8b0') in 0.026576 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-h06-64.png
-  artifactKey: Guid(2f288ee0bef8b42fd842abf14e6c9699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-h06-64.png using Guid(2f288ee0bef8b42fd842abf14e6c9699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '557b1e04a4c54dbe26a272de409e8cff') in 0.019156 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-h02-32.png
-  artifactKey: Guid(03f57f72dfb6b483f815eb01d3c00bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-h02-32.png using Guid(03f57f72dfb6b483f815eb01d3c00bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd554c221ca5e92a309f27b0d3b87239e') in 0.018338 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32
-  artifactKey: Guid(c67409647bbf74b2f8ac495e54977b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32 using Guid(c67409647bbf74b2f8ac495e54977b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d14892547d9c8a20387723ae3b5fbe') in 0.004778 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-v03-32.png
-  artifactKey: Guid(fcca382af04f4416aac8c8fd8f23f332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-v03-32.png using Guid(fcca382af04f4416aac8c8fd8f23f332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35e79786c8fe8a8f606da4c40033be59') in 0.020652 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-h03-32.png
-  artifactKey: Guid(3c21a5469e05b44c7a29fb775828d79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-h03-32.png using Guid(3c21a5469e05b44c7a29fb775828d79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92bac67a7c3929ff8b24854eefc33228') in 0.018793 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000067 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-v05-32.png
-  artifactKey: Guid(4e277331f42f8490e80fc95e6ba54841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-v05-32.png using Guid(4e277331f42f8490e80fc95e6ba54841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b44b6faacf785e2290cd162ea59944b') in 0.017476 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-v01-32.png
-  artifactKey: Guid(791080409b7c143d0be77e2f23abb32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-v01-32.png using Guid(791080409b7c143d0be77e2f23abb32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6771a4f42dcc6a43400e15e8a3e9ab8c') in 0.018488 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-v06-64.png
-  artifactKey: Guid(af88f4a5639644ba78055166e9607c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-v06-64.png using Guid(af88f4a5639644ba78055166e9607c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a10b8601d1656fd2b55a705540628159') in 0.019453 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-v01-64.png
-  artifactKey: Guid(2776a520affe04baf94198ac1a49b932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-v01-64.png using Guid(2776a520affe04baf94198ac1a49b932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d0a2818c86e592fa7e834a234ef96cf') in 0.022948 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-v07-32.png
-  artifactKey: Guid(409e2a3fb01c04e8d9fec63015886353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-v07-32.png using Guid(409e2a3fb01c04e8d9fec63015886353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5688f814da9c77e4c6d2adda54868eb0') in 0.020151 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-h02-64.png
-  artifactKey: Guid(8cfe090b1e02842bf964030cd4612ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-h02-64.png using Guid(8cfe090b1e02842bf964030cd4612ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96860daace1f8a91ad60138fc9a28e3c') in 0.019816 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-h07-32.png
-  artifactKey: Guid(53d50050f211947698105e9ca118393a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-h07-32.png using Guid(53d50050f211947698105e9ca118393a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ccbfdd462dbe792f9b272359adecaa1') in 0.018295 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-h04-64.png
-  artifactKey: Guid(9af262a7d562642d0adfe47ad1bc0171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-h04-64.png using Guid(9af262a7d562642d0adfe47ad1bc0171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a982976b7c3f9b3c64199672752cd8c3') in 0.021627 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000188 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-v02-64.png
-  artifactKey: Guid(73e36ada7118c40f29b11bdfa7b35865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-v02-64.png using Guid(73e36ada7118c40f29b11bdfa7b35865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '381f78b6b496ddb3babbb1ec2d4adb46') in 0.018438 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/64/spin-v04-64.png
-  artifactKey: Guid(25dca8bf6d42748e2b6a1ea17ce87440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/64/spin-v04-64.png using Guid(25dca8bf6d42748e2b6a1ea17ce87440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2be7766137abc128e28d10b4332573f4') in 0.021139 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000045 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/32/spin-h08-32.png
-  artifactKey: Guid(4ae23b3af6fd84ee1b3c3f4dd4561572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/32/spin-h08-32.png using Guid(4ae23b3af6fd84ee1b3c3f4dd4561572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6038ba0b62ba17385d2f8fa9131cccbd') in 0.021910 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.541685 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-h01-128.png
-  artifactKey: Guid(e1b643ebf17b647ce90ab4cda7f208c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-h01-128.png using Guid(e1b643ebf17b647ce90ab4cda7f208c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d5e8a3785b8bf28cf02b4ccad93ca9') in 0.024968 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000048 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-h04-128.png
-  artifactKey: Guid(ef42ec862c08c4971982d764fbfddb31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-h04-128.png using Guid(ef42ec862c08c4971982d764fbfddb31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '468b1b62370a299b4bd062323765a541') in 0.025842 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-h07-128.png
-  artifactKey: Guid(967bbbbf40c244dab919c67624afd94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-h07-128.png using Guid(967bbbbf40c244dab919c67624afd94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b3c3a02d2b271ddf030ef64512380b') in 0.023072 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000049 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-v05-128.png
-  artifactKey: Guid(1eed3f9fd41f44a12b1f2c9a97da9ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-v05-128.png using Guid(1eed3f9fd41f44a12b1f2c9a97da9ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27f109562c5a0c4a3e4a8f90e35999f') in 0.024222 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-v02-128.png
-  artifactKey: Guid(0642602d45700483f8f276a8eca1aea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-v02-128.png using Guid(0642602d45700483f8f276a8eca1aea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7161b6dfdf774c03f53c9757a3f3f571') in 0.031212 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-v03-128.png
-  artifactKey: Guid(f26db8eda30bf438a9147771b2c14062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-v03-128.png using Guid(f26db8eda30bf438a9147771b2c14062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64b494a7a37be38c1c35f2cb999da8f6') in 0.028112 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-h08-128.png
-  artifactKey: Guid(4c14dce015ba448fabfb2619408097d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-h08-128.png using Guid(4c14dce015ba448fabfb2619408097d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a49f20a53ce2a5fe44e2347c3fd6e1c3') in 0.026737 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-v06-128.png
-  artifactKey: Guid(e819eeadeea1548fa80d1d086a0e9fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-v06-128.png using Guid(e819eeadeea1548fa80d1d086a0e9fd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11ded40fe57dd3799f33ccefd730db06') in 0.028854 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-v08-128.png
-  artifactKey: Guid(1eeb6b55c1b4545e8b6594f96a1577ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-v08-128.png using Guid(1eeb6b55c1b4545e8b6594f96a1577ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea6239c498009f41970e4443565bdb2d') in 0.024632 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-v07-128.png
-  artifactKey: Guid(6ce9b55bffe5c42db98ade6461f293ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-v07-128.png using Guid(6ce9b55bffe5c42db98ade6461f293ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39c418c02a110e46d21bec16faf780bd') in 0.025898 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-h05-128.png
-  artifactKey: Guid(a481b58ac3a1d4533b4803fe2a8b9ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-h05-128.png using Guid(a481b58ac3a1d4533b4803fe2a8b9ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a22b99db71aadfe1967635f2fdc8fb44') in 0.025100 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-h02-128.png
-  artifactKey: Guid(37398ef1a3f164bd396de535ca31d98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-h02-128.png using Guid(37398ef1a3f164bd396de535ca31d98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88ef0cae7d3f8cfd5c5aed63d56e8420') in 0.021146 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-v01-128.png
-  artifactKey: Guid(f87b0a0deb5814eebb682acc9dc213f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-v01-128.png using Guid(f87b0a0deb5814eebb682acc9dc213f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '069089fdad418a460f4200b91dfd83cd') in 0.021719 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-h06-128.png
-  artifactKey: Guid(45c311b89443b46069233a765b835624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-h06-128.png using Guid(45c311b89443b46069233a765b835624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31ddb652668c140d9482693d2034c6c9') in 0.027022 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-v04-128.png
-  artifactKey: Guid(23a27ca81dcaf4ba5a7fa7d4f9e2e778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-v04-128.png using Guid(23a27ca81dcaf4ba5a7fa7d4f9e2e778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e9ff4ce0f672fd9e272e9989ebc207d') in 0.024301 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/128/spin-h03-128.png
-  artifactKey: Guid(098b2d470ec5b41d6a8d9bf621f37c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/128/spin-h03-128.png using Guid(098b2d470ec5b41d6a8d9bf621f37c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be5b64c571761c71f5897a95ba31f4b') in 0.025707 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.413234 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-h01-256.png
-  artifactKey: Guid(c2c003fc9bb34416689405db13276e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-h01-256.png using Guid(c2c003fc9bb34416689405db13276e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cd03a7a896038e7f9fca1d01b2131cd') in 0.028068 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-v07-256.png
-  artifactKey: Guid(99602803e6d5c4ca988827294e12e312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-v07-256.png using Guid(99602803e6d5c4ca988827294e12e312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4bdd3da2a956c4b7e0312adde6972a3') in 0.032037 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-h06-256.png
-  artifactKey: Guid(282bdb769821743d7aa9f74262f4955b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-h06-256.png using Guid(282bdb769821743d7aa9f74262f4955b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e76d8c526d6e36a5330c627a18a1d84') in 0.034537 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-v03-256.png
-  artifactKey: Guid(c4a1691fcf35a4ee39ab7ccebe240e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-v03-256.png using Guid(c4a1691fcf35a4ee39ab7ccebe240e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c179eeb6ef862cee675fa6be89eb37d') in 0.025896 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-v06-256.png
-  artifactKey: Guid(d2fa0f3b291b2447b9e37502f914cf65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-v06-256.png using Guid(d2fa0f3b291b2447b9e37502f914cf65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29572248950dc54c8cd8c39b0750d227') in 0.030506 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-v02-256.png
-  artifactKey: Guid(2deb6ad3fabe040f3beecaa7efdb1e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-v02-256.png using Guid(2deb6ad3fabe040f3beecaa7efdb1e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2376e3a4a8a200b58c82948ee0ac9b39') in 0.029522 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-h03-256.png
-  artifactKey: Guid(952e7f2176ff74e6e904ea1ad6009146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-h03-256.png using Guid(952e7f2176ff74e6e904ea1ad6009146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e648b49f98cab963aa166bd0ba7def7f') in 0.029164 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-h08-256.png
-  artifactKey: Guid(245fd7843dfb64db1ad03e3cc6065252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-h08-256.png using Guid(245fd7843dfb64db1ad03e3cc6065252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37fe033dd96a68dbb26f4ba7e3653cb2') in 0.024865 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-v01-256.png
-  artifactKey: Guid(e2a42caf482eb4958b3c69eb39c04903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-v01-256.png using Guid(e2a42caf482eb4958b3c69eb39c04903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebe2586d78ae4aa2c46c6346d0dbac3e') in 0.028672 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-h05-256.png
-  artifactKey: Guid(c2e753aeb711c47de83923a937eeb8b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-h05-256.png using Guid(c2e753aeb711c47de83923a937eeb8b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '755fe18a92571730a1d8054592f85904') in 0.026654 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-v08-256.png
-  artifactKey: Guid(3a2c52a0464dc4312a8fe58ca2278b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-v08-256.png using Guid(3a2c52a0464dc4312a8fe58ca2278b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c772d2db66633066c2f7024e21fbc23a') in 0.025755 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-h02-256.png
-  artifactKey: Guid(6515cd498f9744533ba4828955dc1b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-h02-256.png using Guid(6515cd498f9744533ba4828955dc1b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd7079865de1212b7c588bcb8f30b094') in 0.031054 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000047 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-v04-256.png
-  artifactKey: Guid(e766d2786ee374eda8e4dc5ddacc3e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-v04-256.png using Guid(e766d2786ee374eda8e4dc5ddacc3e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1169d64367c415a6ffea17263795a8e2') in 0.023706 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-h04-256.png
-  artifactKey: Guid(58aea4f22cc9b4045bbf9589d1d4b07f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-h04-256.png using Guid(58aea4f22cc9b4045bbf9589d1d4b07f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a119ecd87f29a2ddede4dc18393de9') in 0.028324 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-h07-256.png
-  artifactKey: Guid(151ea516bd3174ad995794e429f0fa7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-h07-256.png using Guid(151ea516bd3174ad995794e429f0fa7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4906ae8e893f87c1f4691968a697ff1f') in 0.029254 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Free Poker Chip Icons/Sprites/256/spin-v05-256.png
-  artifactKey: Guid(a1267deec8e514abdb8b4d92b39e1f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Sprites/256/spin-v05-256.png using Guid(a1267deec8e514abdb8b4d92b39e1f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a5a5b91db9260957a34e6a4f7bff82') in 0.026679 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.577740 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32
-  artifactKey: Guid(e8d14178ff83f46898e53465fbd57c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32 using Guid(e8d14178ff83f46898e53465fbd57c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b802d9528dab575c9ebfc775746ef97') in 0.006039 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.066325 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack01-purse1-32.png
-  artifactKey: Guid(e1ec1e079107245d6b23eff670ad59a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack01-purse1-32.png using Guid(e1ec1e079107245d6b23eff670ad59a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba8a7dd467ce2cdba3fd9d7802694bc4') in 0.022369 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack04-suitcase1-32.png
-  artifactKey: Guid(925351dc0a1b74076b36e2b145b8dc0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack04-suitcase1-32.png using Guid(925351dc0a1b74076b36e2b145b8dc0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f5215b4be4c4a40078e190f3f87f0a') in 0.021633 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack02-bag1-32.png
-  artifactKey: Guid(69840d3e4837c4ec6bffd8465586be80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack02-bag1-32.png using Guid(69840d3e4837c4ec6bffd8465586be80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044dc7c6896cb092d57d283dbbd54c01') in 0.017841 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack03-bag2-32.png
-  artifactKey: Guid(bab6a3f6589f249ecb66bec316517b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack03-bag2-32.png using Guid(bab6a3f6589f249ecb66bec316517b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a611946d78a0e3883c2cf63eb16d7a83') in 0.019487 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack06-vault1-32.png
-  artifactKey: Guid(108d7b6114f09458899fe4e3240c438a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack06-vault1-32.png using Guid(108d7b6114f09458899fe4e3240c438a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7f15eee3b16f83b3c20c45c2ef3c41') in 0.018574 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack06-vault3-32.png
-  artifactKey: Guid(243c421544eeb40309ea548a2c14fddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack06-vault3-32.png using Guid(243c421544eeb40309ea548a2c14fddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b83787ede4bd9f36ca31862a2a1f5d') in 0.030609 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack05-chest3-32.png
-  artifactKey: Guid(f48e556415fb14fa78ad825a2c76d3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack05-chest3-32.png using Guid(f48e556415fb14fa78ad825a2c76d3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0899a965abb64ab01ff4336f9c66142b') in 0.027213 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack02-bag3-32.png
-  artifactKey: Guid(40431c7ad6f7c4d8b9660d8219f18c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack02-bag3-32.png using Guid(40431c7ad6f7c4d8b9660d8219f18c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f1e1700ac7c840e95dda9e831cf728') in 0.020552 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack03-bag3-32.png
-  artifactKey: Guid(4262e154db4b54c05896b376803116c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack03-bag3-32.png using Guid(4262e154db4b54c05896b376803116c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cf6ab4cfbf1ffb041610c683d8776ed') in 0.018441 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000054 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack01-purse2-32.png
-  artifactKey: Guid(ae100fe42887a4767a35519e61cc6189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack01-purse2-32.png using Guid(ae100fe42887a4767a35519e61cc6189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df52f177cf86b9caaeb00a828a6229c5') in 0.021459 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000045 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack04-suitcase3-32.png
-  artifactKey: Guid(9ba457894ff634b61a251fc3c6efaf66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack04-suitcase3-32.png using Guid(9ba457894ff634b61a251fc3c6efaf66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cf344b0f399956c94eca6cd1cf35866') in 0.019333 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack02-bag2-32.png
-  artifactKey: Guid(2c04e524fe8314e1d96210c9f922d7f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack02-bag2-32.png using Guid(2c04e524fe8314e1d96210c9f922d7f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c46f8a6b76784d097749903bef7a7a33') in 0.022207 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack05-chest2-32.png
-  artifactKey: Guid(ad77abf1acc11446d90576baa049dff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack05-chest2-32.png using Guid(ad77abf1acc11446d90576baa049dff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d9375effd6490ce89651fd69070179') in 0.019831 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack04-suitcase2-32.png
-  artifactKey: Guid(f9fac215a3cae46ae8f8d114611721a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack04-suitcase2-32.png using Guid(f9fac215a3cae46ae8f8d114611721a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd4f3ec7b8572e28c2b194e11507f374') in 0.023073 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack05-chest1-32.png
-  artifactKey: Guid(e8d2321d8fcc24eee92e6988890fdd72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack05-chest1-32.png using Guid(e8d2321d8fcc24eee92e6988890fdd72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb810c53b6dbe4d451c066aeb59c0253') in 0.020774 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000047 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack01-purse3-32.png
-  artifactKey: Guid(ad1abc15622d9429e9e715208137b86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack01-purse3-32.png using Guid(ad1abc15622d9429e9e715208137b86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05baec396668ec1e7d22452d9466a509') in 0.024737 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack06-vault2-32.png
-  artifactKey: Guid(ff18aee0b5762499793fac484c741d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack06-vault2-32.png using Guid(ff18aee0b5762499793fac484c741d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e07b367c7629553793ab6771956cc582') in 0.016810 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Free Poker Chip Icons/Packs/32/pack03-bag1-32.png
-  artifactKey: Guid(bc389fe704d9c4b7983a0fcc5b0132a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free Poker Chip Icons/Packs/32/pack03-bag1-32.png using Guid(bc389fe704d9c4b7983a0fcc5b0132a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae54fd8d9c2bc8019972b56ccbb4499') in 0.044225 seconds 
+  Time since last request: 34918.384727 seconds.
+  path: Assets/prefab/tube1 Variant.prefab
+  artifactKey: Guid(ed4a944eb7268cb4d82a00a72313ea09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/tube1 Variant.prefab using Guid(ed4a944eb7268cb4d82a00a72313ea09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8546f05b50c8b86e1196a746d157fe5') in 0.215036 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.030040 seconds.
+Registered in 0.010570 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\user\upskill\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\user\upskill\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.91 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.07 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.968 seconds
+- Completed reload, in  1.986 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1969ms)
-		BeginReloadAssembly (223ms)
+	ReloadAssembly (1987ms)
+		BeginReloadAssembly (279ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (10ms)
+			DisableScriptedObjects (8ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (61ms)
-		EndReloadAssembly (1576ms)
-			LoadAssemblies (148ms)
+			CreateAndSetChildDomain (53ms)
+		EndReloadAssembly (1498ms)
+			LoadAssemblies (231ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (528ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (89ms)
-			SetupLoadedEditorAssemblies (688ms)
+			SetupTypeCache (429ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (109ms)
+			SetupLoadedEditorAssemblies (651ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (45ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (134ms)
-				ProcessInitializeOnLoadAttributes (421ms)
-				ProcessInitializeOnLoadMethodAttributes (67ms)
-				AfterProcessingInitializeOnLoad (18ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (31ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 6.14 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4056 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (190.0 KB). Loaded Objects now: 4543.
-Memory consumption went from 156.7 MB to 156.5 MB.
-Total: 6.899300 ms (FindLiveObjects: 0.634500 ms CreateObjectMapping: 2.052500 ms MarkObjects: 3.905000 ms  DeleteObjects: 0.306000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 81.995066 seconds.
-  path: ProjectSettings/TagManager.asset
-  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c37f63d48ffb9ce42195a886da4908f') in 0.033000 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.017582 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\user\upskill\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\user\upskill\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.894 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1895ms)
-		BeginReloadAssembly (190ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (49ms)
-		EndReloadAssembly (1523ms)
-			LoadAssemblies (158ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (438ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (91ms)
-			SetupLoadedEditorAssemblies (741ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (44ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (204ms)
-				ProcessInitializeOnLoadAttributes (405ms)
-				ProcessInitializeOnLoadMethodAttributes (68ms)
+				BeforeProcessingInitializeOnLoad (141ms)
+				ProcessInitializeOnLoadAttributes (380ms)
+				ProcessInitializeOnLoadMethodAttributes (65ms)
 				AfterProcessingInitializeOnLoad (19ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (30ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4.12 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 4.62 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4056 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 32 unused Assets / (189.8 KB). Loaded Objects now: 4546.
+Unloading 4057 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (191.0 KB). Loaded Objects now: 4540.
 Memory consumption went from 156.7 MB to 156.5 MB.
-Total: 4.053700 ms (FindLiveObjects: 0.305100 ms CreateObjectMapping: 0.306100 ms MarkObjects: 3.272100 ms  DeleteObjects: 0.169300 ms)
+Total: 4.840500 ms (FindLiveObjects: 0.438900 ms CreateObjectMapping: 0.412300 ms MarkObjects: 3.773500 ms  DeleteObjects: 0.214300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -795,3 +227,543 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011342 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.765 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1766ms)
+		BeginReloadAssembly (264ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (19ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (1364ms)
+			LoadAssemblies (137ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (389ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (673ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (37ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (120ms)
+				ProcessInitializeOnLoadAttributes (395ms)
+				ProcessInitializeOnLoadMethodAttributes (103ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (30ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.00 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4057 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (189.9 KB). Loaded Objects now: 4543.
+Memory consumption went from 156.7 MB to 156.5 MB.
+Total: 3.880000 ms (FindLiveObjects: 0.362600 ms CreateObjectMapping: 0.229500 ms MarkObjects: 3.125900 ms  DeleteObjects: 0.161100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 109.626378 seconds.
+  path: Assets/prefab/tube1 Variant.prefab
+  artifactKey: Guid(ed4a944eb7268cb4d82a00a72313ea09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/tube1 Variant.prefab using Guid(ed4a944eb7268cb4d82a00a72313ea09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c5e7ea3f7a244dc00035032373ab487') in 0.089880 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.935096 seconds.
+  path: Assets/prefab/tube1 Variant.prefab
+  artifactKey: Guid(ed4a944eb7268cb4d82a00a72313ea09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/tube1 Variant.prefab using Guid(ed4a944eb7268cb4d82a00a72313ea09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4832f65089e8ce2257891d5978b2d42d') in 0.016888 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011519 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.928 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1929ms)
+		BeginReloadAssembly (195ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (61ms)
+		EndReloadAssembly (1472ms)
+			LoadAssemblies (157ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (414ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (81ms)
+			SetupLoadedEditorAssemblies (654ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (46ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (135ms)
+				ProcessInitializeOnLoadAttributes (389ms)
+				ProcessInitializeOnLoadMethodAttributes (63ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (29ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 8.62 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4057 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (190.9 KB). Loaded Objects now: 4546.
+Memory consumption went from 156.7 MB to 156.5 MB.
+Total: 4.942900 ms (FindLiveObjects: 0.427600 ms CreateObjectMapping: 0.377600 ms MarkObjects: 3.912000 ms  DeleteObjects: 0.224100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010830 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.649 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1649ms)
+		BeginReloadAssembly (191ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (1302ms)
+			LoadAssemblies (137ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (396ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (88ms)
+			SetupLoadedEditorAssemblies (555ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (76ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (110ms)
+				ProcessInitializeOnLoadAttributes (301ms)
+				ProcessInitializeOnLoadMethodAttributes (51ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (28ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.13 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4057 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (190.1 KB). Loaded Objects now: 4549.
+Memory consumption went from 156.7 MB to 156.5 MB.
+Total: 4.222200 ms (FindLiveObjects: 0.322300 ms CreateObjectMapping: 0.472600 ms MarkObjects: 3.259000 ms  DeleteObjects: 0.167200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012191 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.355 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1356ms)
+		BeginReloadAssembly (162ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (1072ms)
+			LoadAssemblies (123ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (301ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (519ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (30ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (108ms)
+				ProcessInitializeOnLoadAttributes (316ms)
+				ProcessInitializeOnLoadMethodAttributes (48ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (24ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.54 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4057 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (190.2 KB). Loaded Objects now: 4552.
+Memory consumption went from 156.7 MB to 156.5 MB.
+Total: 3.861100 ms (FindLiveObjects: 0.339100 ms CreateObjectMapping: 0.292800 ms MarkObjects: 3.063400 ms  DeleteObjects: 0.164500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011493 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.962 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1963ms)
+		BeginReloadAssembly (265ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (73ms)
+		EndReloadAssembly (1508ms)
+			LoadAssemblies (198ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (491ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (74ms)
+			SetupLoadedEditorAssemblies (664ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (44ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (135ms)
+				ProcessInitializeOnLoadAttributes (403ms)
+				ProcessInitializeOnLoadMethodAttributes (62ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (29ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.65 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4057 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (190.2 KB). Loaded Objects now: 4555.
+Memory consumption went from 156.7 MB to 156.6 MB.
+Total: 5.097900 ms (FindLiveObjects: 0.485600 ms CreateObjectMapping: 0.326900 ms MarkObjects: 4.063700 ms  DeleteObjects: 0.220700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011840 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.252 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1252ms)
+		BeginReloadAssembly (158ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (969ms)
+			LoadAssemblies (118ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (273ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (451ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (31ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (102ms)
+				ProcessInitializeOnLoadAttributes (258ms)
+				ProcessInitializeOnLoadMethodAttributes (46ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (24ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.10 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4057 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (190.1 KB). Loaded Objects now: 4558.
+Memory consumption went from 156.7 MB to 156.6 MB.
+Total: 5.372900 ms (FindLiveObjects: 0.341400 ms CreateObjectMapping: 0.380300 ms MarkObjects: 4.451600 ms  DeleteObjects: 0.198200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012914 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.936 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1938ms)
+		BeginReloadAssembly (231ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (64ms)
+		EndReloadAssembly (1452ms)
+			LoadAssemblies (216ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (389ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (674ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (44ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (150ms)
+				ProcessInitializeOnLoadAttributes (402ms)
+				ProcessInitializeOnLoadMethodAttributes (59ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (30ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.56 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4057 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (191.3 KB). Loaded Objects now: 4561.
+Memory consumption went from 156.8 MB to 156.6 MB.
+Total: 5.555500 ms (FindLiveObjects: 0.425400 ms CreateObjectMapping: 0.442300 ms MarkObjects: 4.485400 ms  DeleteObjects: 0.199800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011717 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.918 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1919ms)
+		BeginReloadAssembly (252ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (74ms)
+		EndReloadAssembly (1419ms)
+			LoadAssemblies (185ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (423ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (81ms)
+			SetupLoadedEditorAssemblies (635ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (49ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (136ms)
+				ProcessInitializeOnLoadAttributes (369ms)
+				ProcessInitializeOnLoadMethodAttributes (60ms)
+				AfterProcessingInitializeOnLoad (19ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (30ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.77 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4057 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (190.3 KB). Loaded Objects now: 4564.
+Memory consumption went from 156.8 MB to 156.6 MB.
+Total: 5.221000 ms (FindLiveObjects: 0.406200 ms CreateObjectMapping: 0.329000 ms MarkObjects: 4.265000 ms  DeleteObjects: 0.219500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.038855 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\bird\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.146 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2147ms)
+		BeginReloadAssembly (297ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (16ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (53ms)
+		EndReloadAssembly (1664ms)
+			LoadAssemblies (242ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (479ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (74ms)
+			SetupLoadedEditorAssemblies (851ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (41ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (130ms)
+				ProcessInitializeOnLoadAttributes (470ms)
+				ProcessInitializeOnLoadMethodAttributes (185ms)
+				AfterProcessingInitializeOnLoad (22ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (32ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.54 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4057 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (190.0 KB). Loaded Objects now: 4567.
+Memory consumption went from 156.8 MB to 156.6 MB.
+Total: 3.702100 ms (FindLiveObjects: 0.330800 ms CreateObjectMapping: 0.222700 ms MarkObjects: 2.984300 ms  DeleteObjects: 0.163100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 519.620320 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c37f63d48ffb9ce42195a886da4908f') in 0.028808 seconds 
